@@ -1,0 +1,1 @@
+Developed an AI-based virtual assistant using HTML, CSS, and JavaScript to perform tasks such as web search, opening applications, and answering user queries. Implemented speech recognition and text-to-speech features for interactive communication.
